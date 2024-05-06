@@ -1,0 +1,132 @@
+[
+    {
+        "date": "01/01/2021",
+        "age": 20,
+        "activity_level": 3,
+        "calories": 1400.0,
+        "protein": 85.0,
+        "carbs": 160.0,
+        "fat": 60.0,
+        "weight": 145.0
+    },
+    {
+        "date": "01/02/2021",
+        "age": 20,
+        "activity_level": 3,
+        "calories": 1400.0,
+        "protein": 85.0,
+        "carbs": 150.0,
+        "fat": 60.0,
+        "weight": 146.05
+    },
+    {
+        "date": "01/03/2021",
+        "age": 20,
+        "activity_level": 3,
+        "calories": 1500.0,
+        "protein": 95.0,
+        "carbs": 160.0,
+        "fat": 65.0,
+        "weight": 146.0
+    },
+    {
+        "date": "01/04/2021",
+        "age": 20,
+        "activity_level": 3,
+        "calories": 1600.0,
+        "protein": 90.0,
+        "carbs": 170.0,
+        "fat": 60.0,
+        "weight": 147.0
+    },
+    {
+        "date": "01/05/2021",
+        "age": 20,
+        "activity_level": 3,
+        "calories": 1500.0,
+        "protein": 95.0,
+        "carbs": 160.0,
+        "fat": 60.0,
+        "weight": 147.0
+    },
+    {
+        "date": "01/06/2021",
+        "age": 20,
+        "activity_level": 3,
+        "calories": 1600.0,
+        "protein": 95.0,
+        "carbs": 150.0,
+        "fat": 60.0,
+        "weight": 148.0
+    },
+    {
+        "date": "01/07/2021",
+        "age": 20,
+        "activity_level": 3,
+        "calories": 1500.0,
+        "protein": 98.0,
+        "carbs": 170.0,
+        "fat": 65.0,
+        "weight": 149.0
+    },
+    {
+        "date": "01/08/2021",
+        "age": 20,
+        "activity_level": 3,
+        "calories": 1550.0,
+        "protein": 97.0,
+        "carbs": 160.0,
+        "fat": 65.0,
+        "weight": 149.0
+    },
+    {
+        "date": "01/09/2021",
+        "age": 20,
+        "activity_level": 3,
+        "calories": 1500.0,
+        "protein": 98.0,
+        "carbs": 160.0,
+        "fat": 50.0,
+        "weight": 149.0
+    },
+    {
+        "date": "01/10/2021",
+        "age": 20,
+        "activity_level": 3,
+        "calories": 1600.0,
+        "protein": 98.0,
+        "carbs": 160.0,
+        "fat": 50.0,
+        "weight": 148.0
+    },
+    {
+        "date": "01/11/2021",
+        "age": 20,
+        "activity_level": 4,
+        "calories": 1400.0,
+        "protein": 80.0,
+        "carbs": 160.0,
+        "fat": 50.0,
+        "weight": 149.0
+    },
+    {
+        "date": "01/12/2021",
+        "age": 20,
+        "activity_level": 3,
+        "calories": 1600.0,
+        "protein": 80.0,
+        "carbs": 160.0,
+        "fat": 50.0,
+        "weight": 149.0
+    },
+    {
+        "date": "01/13/2021",
+        "age": 20,
+        "activity_level": 3,
+        "calories": 1700.0,
+        "protein": 80.0,
+        "carbs": 160.0,
+        "fat": 50.0,
+        "weight": 148.0
+    }
+]
